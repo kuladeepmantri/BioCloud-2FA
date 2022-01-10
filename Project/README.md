@@ -1,16 +1,8 @@
 # miniprojectgitam
+Developing a Real-time cross-platform authentication application with Cloud Computing!
 
-Mini-gitamproject
 
 ## Getting Started
+In a world of rapid application development, it has become easy to develop mobile applications with software such as Flutter. 
+In this project we propose to develop a mobile application. The main focus of this application is to have a safe and secure Two-Factor Authentication that interacts with a Cloud Database for live authentication. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
