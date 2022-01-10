@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "884581158540",
+    "firebase_url": "https://mini-project-gitam-ccbef.firebaseio.com",
+    "project_id": "mini-project-gitam-ccbef",
+    "storage_bucket": "mini-project-gitam-ccbef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884581158540:android:0a853c8778bbad8c1ff5a9",
+        "android_client_info": {
+          "package_name": "edu.gitam.miniprojectgitam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884581158540-fk938vfraf4n0960u8e9djqn4al37tqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.gitam.miniprojectgitam",
+            "certificate_hash": "321c5e90600e66350cf2c31a4a45a9857bb7c9c5"
+          }
+        },
+        {
+          "client_id": "884581158540-781eq6th2lt8966qsg5qu9euqbhi7s9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUL1vQvVxPRhd0XMjWPimb0sX12WTr0m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884581158540-781eq6th2lt8966qsg5qu9euqbhi7s9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
